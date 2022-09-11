@@ -10,16 +10,20 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: AdvEmu
+footer: Cyber 5W
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/cyber5w
   - title: facebook
-    url:
+    url: https://www.facebook.com/cyber5w/
   - title: linkedin
-    url:
+    url: https://www.linkedin.com/company/cyber5w/
+  - title: Instagram
+    url: https://www.instagram.com/cyber5w/
+  - title: YouTube
+    url: https://www.youtube.com/c/AliHadiC5W 
 
 
 # Build settings
