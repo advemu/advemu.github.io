@@ -1,5 +1,5 @@
 # Site settings
-title: C5W Adversary Emulation System - Tariq
+title: TARIQ
 email: info@advemu.com
 url: https://www.advemu.com
 description: "Tariq is Cyber 5W Adversary Si/Emulation System which aims to simulate and emulate the behavior of various threat actors based on their real TTP. The idea is to create playbooks for threat actors where companies can use to test if their security posture is good enough for this type of threat actor. In other words, test defenses based on simulations, rather than fall a victim to a true threat actor."
