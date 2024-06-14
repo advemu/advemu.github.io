@@ -1,8 +1,8 @@
 # Site settings
-title: TARIQ
+title: TARIK
 email: info@advemu.com
 url: https://www.advemu.com/
-description: "Tariq is Cyber 5W Adversary Simulation System which aims to simulate the behavior of various threat actors based on their real TTPs. The idea is to create playbooks for threat actors where organizations can use to test if their security posture is good enough for this type of threat actor. In other words, test defenses based on simulations, rather than fall a victim to a true threat actor."
+description: "TARIK is CYBER 5W Adversary Simulation System which aims to simulate the behavior of various threat actors based on their real TTPs. The idea is to create playbooks for threat actors where organizations can use to test if their security posture is good enough for this type of threat actor. In other words, test defenses based on simulations, rather than fall a victim to a true threat actor."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Cyber 5W
+footer: CYBER 5W
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
